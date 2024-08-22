@@ -1,0 +1,2 @@
+#!/bin/zsh
+./mvnw spring-boot:run -Dspring-boot.run.profiles=dev -Dspring-boot.run.jvmArguments="-Xmx256m -Xms128m" -Dspring-boot.run.arguments="'--DB_USER=com.avenger' '--DB_PASSWORD=com.avenger' '--DB_NAME=avengers'"
