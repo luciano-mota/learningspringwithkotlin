@@ -1,4 +1,4 @@
-package com.learningkotlin.avengers.application.web.request
+package com.learningkotlin.avengers.application.web.resource.request
 
 import com.learningkotlin.avengers.domain.avenger.Avenger
 import jakarta.validation.constraints.NotBlank

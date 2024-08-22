@@ -1,7 +1,7 @@
 package com.learningkotlin.avengers.application.web.resource
 
-import com.learningkotlin.avengers.application.web.request.AvengerRequest
-import com.learningkotlin.avengers.application.web.response.AvengerResponse
+import com.learningkotlin.avengers.application.web.resource.request.AvengerRequest
+import com.learningkotlin.avengers.application.web.resource.response.AvengerResponse
 import com.learningkotlin.avengers.domain.avenger.AvengerRepository
 import jakarta.validation.Valid
 import org.springframework.beans.factory.annotation.Autowired

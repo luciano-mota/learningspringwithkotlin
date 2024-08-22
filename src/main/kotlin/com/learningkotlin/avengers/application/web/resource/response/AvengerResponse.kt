@@ -1,4 +1,4 @@
-package com.learningkotlin.avengers.application.web.response
+package com.learningkotlin.avengers.application.web.resource.response
 
 import com.learningkotlin.avengers.domain.avenger.Avenger
 
